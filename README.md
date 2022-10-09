@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akaraspt
 - 👀 I’m interested in developing a new deep learning model/solution to the medical-related problems.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning project management skills.
 - 💞️ I’m looking to collaborate on research projects related to medical applications.
 - 📫 How to reach me: akara.sup@mahidol.edu
 
